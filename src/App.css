@@ -46,38 +46,38 @@ th:hover::after {
 }
 
 .table tr td:hover {
-    background-color: black;
-    color: aliceblue;
+    background-color: lightblue;
+    color: black;
     border: 0.5px solid black;
 }
 
 .table tr td:hover:nth-child(2) {
     background-color: royalblue;
-    color: aliceblue;
+    color: black;
     border: 0.5px solid black;
 }
 
 .table tr td:hover:nth-child(3) {
-    background-color: yellow;
-    color: aliceblue;
+    background-color: lightgreen;
+    color: black;
     border: 0.5px solid black;
 }
 
 .table tr td:hover:nth-child(4) {
     background-color: red;
-    color: aliceblue;
+    color: black;
     border: 0.5px solid rgb(12, 12, 12);
 }
 
 .table tr td:hover:nth-child(5) {
-    background-color: greenyellow;
-    color: aliceblue;
+    background-color: yellow;
+    color: black;
     border: 0.5px solid rgb(12, 12, 12);
 }
 
 .table tr td:hover:nth-child(6) {
     background-color: darkturquoise;
-    color: aliceblue;
+    color: black;
     border: 0.5px solid rgb(12, 12, 12);
 }
 
